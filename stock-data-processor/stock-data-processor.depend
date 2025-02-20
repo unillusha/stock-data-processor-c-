@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1740070955 source:d:\temp\stock-data-processor-c-\stock-data-processor\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<limits>
+
